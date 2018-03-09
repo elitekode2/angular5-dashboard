@@ -1,6 +1,6 @@
-# Covalent QuickStart
+# dashboard QuickStart
 
-Quickstart App with @covalent packages
+Quickstart App with @karmayogi packages
 
 ## Setup
 
